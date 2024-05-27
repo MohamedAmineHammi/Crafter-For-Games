@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#test {
+	background-image: url(/images/8bitbackground1.png);
+	background-size: cover;
+	color: white;
+	height: 100%;
+}
+
+.goButton {
+	background-color: #417B5A;
+	border-color: #417B5A;
+}
